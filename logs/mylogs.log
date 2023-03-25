@@ -1,0 +1,30 @@
+
+[INFO ] 2023-03-25 23:12:01.906 [main] VerifyLogin - enter email
+[INFO ] 2023-03-25 23:12:02.148 [main] VerifyLogin - enter password
+[INFO ] 2023-03-25 23:12:02.289 [main] VerifyLogin - condition click
+[INFO ] 2023-03-25 23:12:10.473 [main] VerifyLogin - click login
+[INFO ] 2023-03-25 23:12:10.613 [main] VerifyLogin - handle assertion2
+[INFO ] 2023-03-25 23:12:21.708 [main] VerifyLogin - enter email
+[INFO ] 2023-03-25 23:12:22.005 [main] VerifyLogin - enter password
+[INFO ] 2023-03-25 23:12:22.264 [main] VerifyLogin - condition click
+[INFO ] 2023-03-25 23:12:28.873 [main] VerifyLogin - click login
+[INFO ] 2023-03-25 23:12:28.972 [main] VerifyLogin - handle assertion1
+[INFO ] 2023-03-25 23:13:18.732 [main] VerifyRegister - enter firstname
+[INFO ] 2023-03-25 23:13:18.926 [main] VerifyRegister - enter lastname
+[INFO ] 2023-03-25 23:13:19.074 [main] VerifyRegister - click
+[INFO ] 2023-03-25 23:13:19.345 [main] VerifyRegister - enter dob
+[INFO ] 2023-03-25 23:13:19.611 [main] VerifyRegister - enter social
+[INFO ] 2023-03-25 23:13:19.909 [main] VerifyRegister - enter mail
+[INFO ] 2023-03-25 23:13:20.082 [main] VerifyRegister - enter password
+[INFO ] 2023-03-25 23:13:20.314 [main] VerifyRegister - enter password1
+[INFO ] 2023-03-25 23:13:27.750 [main] VerifyRegister - click1
+[INFO ] 2023-03-25 23:13:27.848 [main] VerifyRegister - verify assertion
+[FATAL] 2023-03-26 01:26:33.435 [main] VerifyBankingAccount - this is fatal level log
+[WARN ] 2023-03-26 01:26:33.437 [main] VerifyBankingAccount - this is worning log
+[INFO ] 2023-03-26 01:26:33.437 [main] VerifyBankingAccount - pass signin
+[INFO ] 2023-03-26 01:26:43.434 [main] VerifyBankingAccount - pass deposit
+[INFO ] 2023-03-26 01:26:54.342 [main] VerifyBankingAccount - pass withdraw
+[INFO ] 2023-03-26 01:26:59.706 [main] VerifyBankingAccount - pass saving
+[INFO ] 2023-03-26 01:27:05.830 [main] VerifyBankingAccount - pass checking
+[INFO ] 2023-03-26 01:27:15.882 [main] VerifyBankingAccount - pass transfer
+[INFO ] 2023-03-26 01:27:15.971 [main] VerifyBankingAccount - pass assert
