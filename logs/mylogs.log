@@ -358,3 +358,109 @@
 [INFO ] 2023-03-28 19:12:43.814 [main] VerifyLogin - condition click
 [INFO ] 2023-03-28 19:12:53.314 [main] VerifyLogin - click login
 [INFO ] 2023-03-28 19:12:53.349 [main] VerifyLogin - handle assertion1
+[INFO ] 2023-03-29 02:26:36.318 [main] VerifyRegister - enter firstname
+[INFO ] 2023-03-29 02:26:36.418 [main] VerifyRegister - enter lastname
+[INFO ] 2023-03-29 02:26:36.499 [main] VerifyRegister - click
+[INFO ] 2023-03-29 02:26:36.608 [main] VerifyRegister - enter dob
+[INFO ] 2023-03-29 02:26:36.732 [main] VerifyRegister - enter social
+[INFO ] 2023-03-29 02:26:36.873 [main] VerifyRegister - enter mail
+[INFO ] 2023-03-29 02:26:36.982 [main] VerifyRegister - enter password
+[INFO ] 2023-03-29 02:26:37.096 [main] VerifyRegister - enter password1
+[INFO ] 2023-03-29 02:26:39.712 [main] VerifyRegister - click1
+[INFO ] 2023-03-29 02:26:39.814 [main] VerifyRegister - verify assertion
+[INFO ] 2023-03-29 03:37:37.362 [main] VerifyRegister - enter firstname
+[INFO ] 2023-03-29 03:37:37.457 [main] VerifyRegister - enter lastname
+[INFO ] 2023-03-29 03:37:37.540 [main] VerifyRegister - click
+[INFO ] 2023-03-29 03:37:37.645 [main] VerifyRegister - enter dob
+[INFO ] 2023-03-29 03:37:37.765 [main] VerifyRegister - enter social
+[INFO ] 2023-03-29 03:37:37.889 [main] VerifyRegister - enter mail
+[INFO ] 2023-03-29 03:37:37.992 [main] VerifyRegister - enter password
+[INFO ] 2023-03-29 03:37:38.109 [main] VerifyRegister - enter password1
+[INFO ] 2023-03-29 03:37:40.389 [main] VerifyRegister - click1
+[INFO ] 2023-03-29 03:37:40.479 [main] VerifyRegister - verify assertion
+[INFO ] 2023-03-29 03:40:14.765 [main] VerifyRegister - enter firstname
+[INFO ] 2023-03-29 03:40:14.857 [main] VerifyRegister - enter lastname
+[INFO ] 2023-03-29 03:40:14.932 [main] VerifyRegister - click
+[INFO ] 2023-03-29 03:40:15.030 [main] VerifyRegister - enter dob
+[INFO ] 2023-03-29 03:40:15.149 [main] VerifyRegister - enter social
+[INFO ] 2023-03-29 03:40:15.273 [main] VerifyRegister - enter mail
+[INFO ] 2023-03-29 03:40:15.383 [main] VerifyRegister - enter password
+[INFO ] 2023-03-29 03:40:15.494 [main] VerifyRegister - enter password1
+[INFO ] 2023-03-29 03:40:18.436 [main] VerifyRegister - click1
+[INFO ] 2023-03-29 03:40:18.500 [main] VerifyRegister - verify assertion
+[FATAL] 2023-03-29 03:40:28.118 [main] VerifyBankingAccount - this is fatal level log
+[WARN ] 2023-03-29 03:40:28.119 [main] VerifyBankingAccount - this is worning log
+[INFO ] 2023-03-29 03:40:28.119 [main] VerifyBankingAccount - pass signin
+[INFO ] 2023-03-29 03:40:38.289 [main] VerifyBankingAccount - pass deposit
+[INFO ] 2023-03-29 03:40:47.542 [main] VerifyBankingAccount - pass withdraw
+[INFO ] 2023-03-29 03:40:52.152 [main] VerifyBankingAccount - pass saving
+[INFO ] 2023-03-29 03:40:55.974 [main] VerifyBankingAccount - pass checking
+[INFO ] 2023-03-29 03:41:03.143 [main] VerifyBankingAccount - pass transfer
+[INFO ] 2023-03-29 03:41:03.190 [main] VerifyBankingAccount - pass assert
+[INFO ] 2023-03-29 03:41:08.591 [main] VerifyLogin - enter email
+[INFO ] 2023-03-29 03:41:08.711 [main] VerifyLogin - enter password
+[INFO ] 2023-03-29 03:41:08.788 [main] VerifyLogin - condition click
+[INFO ] 2023-03-29 03:41:12.920 [main] VerifyLogin - click login
+[INFO ] 2023-03-29 03:41:13.011 [main] VerifyLogin - handle assertion2
+[INFO ] 2023-03-29 03:41:18.275 [main] VerifyLogin - enter email
+[INFO ] 2023-03-29 03:41:18.417 [main] VerifyLogin - enter password
+[INFO ] 2023-03-29 03:41:18.507 [main] VerifyLogin - condition click
+[INFO ] 2023-03-29 03:41:22.615 [main] VerifyLogin - click login
+[INFO ] 2023-03-29 03:41:22.655 [main] VerifyLogin - handle assertion1
+[INFO ] 2023-03-29 03:47:53.977 [main] VerifyRegister - enter firstname
+[INFO ] 2023-03-29 03:47:54.091 [main] VerifyRegister - enter lastname
+[INFO ] 2023-03-29 03:47:54.165 [main] VerifyRegister - click
+[INFO ] 2023-03-29 03:47:54.265 [main] VerifyRegister - enter dob
+[INFO ] 2023-03-29 03:47:54.374 [main] VerifyRegister - enter social
+[INFO ] 2023-03-29 03:47:54.512 [main] VerifyRegister - enter mail
+[INFO ] 2023-03-29 03:47:54.628 [main] VerifyRegister - enter password
+[INFO ] 2023-03-29 03:47:54.752 [main] VerifyRegister - enter password1
+[INFO ] 2023-03-29 03:47:58.220 [main] VerifyRegister - click1
+[INFO ] 2023-03-29 03:47:58.308 [main] VerifyRegister - verify assertion
+[FATAL] 2023-03-29 03:48:09.072 [main] VerifyBankingAccount - this is fatal level log
+[WARN ] 2023-03-29 03:48:09.072 [main] VerifyBankingAccount - this is worning log
+[INFO ] 2023-03-29 03:48:09.073 [main] VerifyBankingAccount - pass signin
+[INFO ] 2023-03-29 03:48:24.045 [main] VerifyBankingAccount - pass deposit
+[INFO ] 2023-03-29 03:48:38.942 [main] VerifyBankingAccount - pass withdraw
+[INFO ] 2023-03-29 03:48:44.978 [main] VerifyBankingAccount - pass saving
+[INFO ] 2023-03-29 03:48:50.127 [main] VerifyBankingAccount - pass checking
+[INFO ] 2023-03-29 03:48:58.469 [main] VerifyBankingAccount - pass transfer
+[INFO ] 2023-03-29 03:49:04.551 [main] VerifyLogin - enter email
+[INFO ] 2023-03-29 03:49:04.666 [main] VerifyLogin - enter password
+[INFO ] 2023-03-29 03:49:04.745 [main] VerifyLogin - condition click
+[INFO ] 2023-03-29 03:49:09.807 [main] VerifyLogin - click login
+[INFO ] 2023-03-29 03:49:09.885 [main] VerifyLogin - handle assertion2
+[INFO ] 2023-03-29 03:49:15.613 [main] VerifyLogin - enter email
+[INFO ] 2023-03-29 03:49:15.762 [main] VerifyLogin - enter password
+[INFO ] 2023-03-29 03:49:15.870 [main] VerifyLogin - condition click
+[INFO ] 2023-03-29 03:49:20.871 [main] VerifyLogin - click login
+[INFO ] 2023-03-29 03:49:20.910 [main] VerifyLogin - handle assertion1
+[INFO ] 2023-03-29 03:54:06.689 [main] VerifyRegister - enter firstname
+[INFO ] 2023-03-29 03:54:06.794 [main] VerifyRegister - enter lastname
+[INFO ] 2023-03-29 03:54:06.870 [main] VerifyRegister - click
+[INFO ] 2023-03-29 03:54:06.979 [main] VerifyRegister - enter dob
+[INFO ] 2023-03-29 03:54:07.095 [main] VerifyRegister - enter social
+[INFO ] 2023-03-29 03:54:07.225 [main] VerifyRegister - enter mail
+[INFO ] 2023-03-29 03:54:07.327 [main] VerifyRegister - enter password
+[INFO ] 2023-03-29 03:54:07.442 [main] VerifyRegister - enter password1
+[INFO ] 2023-03-29 03:54:11.121 [main] VerifyRegister - click1
+[INFO ] 2023-03-29 03:54:11.190 [main] VerifyRegister - verify assertion
+[FATAL] 2023-03-29 03:54:20.598 [main] VerifyBankingAccount - this is fatal level log
+[WARN ] 2023-03-29 03:54:20.598 [main] VerifyBankingAccount - this is worning log
+[INFO ] 2023-03-29 03:54:20.598 [main] VerifyBankingAccount - pass signin
+[INFO ] 2023-03-29 03:54:34.880 [main] VerifyBankingAccount - pass deposit
+[INFO ] 2023-03-29 03:54:48.188 [main] VerifyBankingAccount - pass withdraw
+[INFO ] 2023-03-29 03:54:56.242 [main] VerifyBankingAccount - pass saving
+[INFO ] 2023-03-29 03:55:04.515 [main] VerifyBankingAccount - pass checking
+[INFO ] 2023-03-29 03:55:16.832 [main] VerifyBankingAccount - pass transfer
+[INFO ] 2023-03-29 03:55:16.893 [main] VerifyBankingAccount - pass assert
+[INFO ] 2023-03-29 03:55:24.629 [main] VerifyLogin - enter email
+[INFO ] 2023-03-29 03:55:24.762 [main] VerifyLogin - enter password
+[INFO ] 2023-03-29 03:55:24.841 [main] VerifyLogin - condition click
+[INFO ] 2023-03-29 03:55:30.818 [main] VerifyLogin - click login
+[INFO ] 2023-03-29 03:55:30.959 [main] VerifyLogin - handle assertion2
+[INFO ] 2023-03-29 03:55:38.692 [main] VerifyLogin - enter email
+[INFO ] 2023-03-29 03:55:38.827 [main] VerifyLogin - enter password
+[INFO ] 2023-03-29 03:55:38.910 [main] VerifyLogin - condition click
+[INFO ] 2023-03-29 03:55:45.643 [main] VerifyLogin - click login
+[INFO ] 2023-03-29 03:55:45.697 [main] VerifyLogin - handle assertion1

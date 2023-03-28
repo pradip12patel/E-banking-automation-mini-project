@@ -10,20 +10,11 @@
         <methods>
           <include name="beforesuite"/>
           <include name="teardown"/>
-          <include name="verify"/>
+          <include name="verifyaccount"/>
           <include name="openurl"/>
           <include name="aftersuite"/>
         </methods>
       </class> <!-- TestCases.VerifyBankingAccount -->
-      <class name="TestCases.VerifyLogin">
-        <methods>
-          <include name="beforesuite"/>
-          <include name="verify"/>
-          <include name="teardown"/>
-          <include name="openurl"/>
-          <include name="aftersuite"/>
-        </methods>
-      </class> <!-- TestCases.VerifyLogin -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
