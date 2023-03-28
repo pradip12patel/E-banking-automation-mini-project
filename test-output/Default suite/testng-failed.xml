@@ -3,13 +3,16 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestCases.VerifyBankingAccount">
+      <class name="TestCases.VerifyRegister">
         <methods>
-          <include name="openurl"/>
           <include name="verify"/>
+          <include name="openurl"/>
+          <include name="endreport"/>
+          <include name="teardown"/>
           <include name="closebrowser"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- TestCases.VerifyBankingAccount -->
+      </class> <!-- TestCases.VerifyRegister -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

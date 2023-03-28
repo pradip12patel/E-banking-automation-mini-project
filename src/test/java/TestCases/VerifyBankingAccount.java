@@ -4,14 +4,14 @@ import org.testng.annotations.Test;
 import org.apache.logging.log4j.*;
 
 import PageObjectModel.PageObject;
-import Resourses.BaseClass;
+import Resourses.BAseClass;
 import Resourses.CommonMethod;
 import Resourses.ConstantMethod;
 
-public class VerifyBankingAccount extends BaseClass {
+public class VerifyBankingAccount extends BAseClass {
 	
 	@Test
-	public void verify()     {
+	public void verifyaccount()     {
 		
 		Logger log=LogManager.getLogger(VerifyBankingAccount.class);
 		

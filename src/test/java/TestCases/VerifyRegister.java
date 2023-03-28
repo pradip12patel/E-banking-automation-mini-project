@@ -7,18 +7,18 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.Test;
 
 import PageObjectModel.PageObject;
-import Resourses.BaseClass;
+import Resourses.BAseClass;
 import Resourses.CommonMethod;
 import Resourses.ConstantMethod;
 import org.apache.logging.log4j.*;
 
-public class VerifyRegister extends BaseClass{
+public class VerifyRegister extends BAseClass{
 	
 	
 	@Test
-	public void verify()   {
+	public void verifyregister()   {
 		
-		Logger log=LogManager.getLogger(VerifyRegister.class);
+	//	Logger log=LogManager.getLogger(VerifyRegister.class);
 		
 		PageObject obj=new PageObject(driver);
 		
@@ -28,25 +28,25 @@ public class VerifyRegister extends BaseClass{
 	//	s.selectByIndex(1);
 		CommonMethod.handleselecttag(obj.entertitle(), 1);
 		obj.enterfirstname().sendKeys(ConstantMethod.firstname);
-		log.info("enter firstname");
+	//	log.info("enter firstname");
 		obj.enterlastname().sendKeys(ConstantMethod.lastname);
-		log.info("enter lastname");
+	//	log.info("enter lastname");
 		obj.entergender().click();
-		log.info("click");
+	//	log.info("click");
 		obj.enterdob().sendKeys(ConstantMethod.dob);
-		log.info("enter dob");
+	//	log.info("enter dob");
 		obj.entersocial().sendKeys(ConstantMethod.ssn);
-		log.info("enter social");
+	//	log.info("enter social");
 		obj.enteremail().sendKeys(ConstantMethod.email);
-		log.info("enter mail");
+	//	log.info("enter mail");
 		obj.enterpass().sendKeys(ConstantMethod.password);
-		log.info("enter password");
+	//	log.info("enter password");
 		obj.enterpass1().sendKeys(ConstantMethod.password);
-		log.info("enter password1");
+	//	log.info("enter password1");
 		obj.clicknext().click();
-		log.info("click1");
+	//	log.info("click1");
 		CommonMethod.hadnleassertion(obj.verifyerror().getText(), ConstantMethod.error, "assertion is fail");
-		log.info("verify assertion");
+	//	log.info("verify assertion");
 	/*	obj.enteradd().sendKeys(ConstantMethod.Add);
 		obj.enterlocality().sendKeys(ConstantMethod.local);
 		obj.enterregion().sendKeys(ConstantMethod.region);

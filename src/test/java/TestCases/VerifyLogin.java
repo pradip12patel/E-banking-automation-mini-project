@@ -6,18 +6,18 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import PageObjectModel.PageObject;
-import Resourses.BaseClass;
+import Resourses.BAseClass;
 import Resourses.CommonMethod;
 import Resourses.ConstantMethod;
 
-public class VerifyLogin extends BaseClass{
+public class VerifyLogin extends BAseClass{
 	
 	
 	@Test(dataProvider = "dataenter")
-	public void verify(String email,String password)  {
+	public void verifylogin(String email,String password)  {
 		
 		Logger log=LogManager.getLogger(VerifyLogin.class);
-		
+
 		PageObject obj=new PageObject(driver);
 		
 		obj.enterusername().sendKeys(email);
